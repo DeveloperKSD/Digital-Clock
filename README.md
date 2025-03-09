@@ -32,3 +32,5 @@ Rounded corners & shadow for a soft UI.
 
 Visit the site here - 
 https://developerksd.github.io/Digital-Clock/
+
+This README used to be a normal file, then it took an arrow to the knee. ⚔️
