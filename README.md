@@ -29,3 +29,6 @@ Displays the current date with toLocaleDateString().
 Glowing text effect for a modern look.
 
 Rounded corners & shadow for a soft UI.
+
+Visit the site here - 
+https://developerksd.github.io/Digital-Clock/
