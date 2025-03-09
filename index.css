@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #323441;
+    color: white;
+}
+
+#clock {
+    font-size: 4rem;
+    font-family: 'Courier New', monospace;
+    padding: 15px;
+    background: linear-gradient(45deg, #ff9a9e, #fad0c4);
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#date {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #ffeb3b; /* Cool yellow */
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+#cat{
+    margin-top:50px;
+}
